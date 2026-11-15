@@ -1,0 +1,24 @@
+# Reference interpreter: Python 3.10.18 (use Python 3.10).
+# Analysis and kernel versions from the saved execution record.
+# Imported runtime versions take precedence over distribution labels.
+# This is not a complete transitive or native-library lockfile.
+
+# Numerical analysis and visualization
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.15.2
+matplotlib==3.10.6
+
+# Forecasting and machine learning
+scikit-learn==1.7.2
+statsmodels==0.14.5
+xgboost==3.0.5
+lightgbm==4.6.0
+prophet==1.4.0
+cmdstanpy==1.3.0
+
+# Recorded notebook kernel
+ipykernel==6.30.1
+
+# Frontend convenience; its version was not recorded in the saved run.
+jupyterlab>=4,<5
