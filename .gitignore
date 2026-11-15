@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Towards Data Science article and publication assets
+/TDS article/
