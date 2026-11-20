@@ -5,7 +5,7 @@ I wanted to see just how much a fitted forecasting model could add to a simple a
 The investigation covers target reconstruction, seasonal patterns, chronological model comparisons, weather availability, and prediction intervals. A strong seasonal benchmark gives the more flexible models a meaningful reference to improve upon.
 
 - **Full analysis:** [Executed forecasting notebook](dc_bikeshare_demand_forecasting.ipynb)
-- **Towards Data Science article:** Link coming soon.
+- **Towards Data Science article:** https://towardsdatascience.com/lightgbm-vs-a-four-week-average-for-forecasting-bike-share-rentals/
 
 ## The forecasting task
 
